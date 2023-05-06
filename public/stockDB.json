@@ -1,0 +1,42 @@
+{
+  "Stock 1": [
+    { "date": "2023-05-01", "price": 70.08, "socialMediaCount": 1200 },
+    { "date": "2023-05-02", "price": 100.05, "socialMediaCount": 1100 },
+    { "date": "2023-05-03", "price": 139.32, "socialMediaCount": 950 },
+    { "date": "2023-05-04", "price": 90.63, "socialMediaCount": 800 },
+    { "date": "2023-05-05", "price": 142.12, "socialMediaCount": 900 },
+    { "date": "2023-05-06", "price": 147.16, "socialMediaCount": 1000 },
+    { "date": "2023-05-07", "price": 80.12, "socialMediaCount": 800 },
+    { "date": "2023-05-09", "price": 151.94, "socialMediaCount": 700 }
+  ],
+  "Stock 2": [
+    { "date": "2023-05-01", "price": 80.08, "socialMediaCount": 1205 },
+    { "date": "2023-05-02", "price": 122.05, "socialMediaCount": 1050 },
+    { "date": "2023-05-03", "price": 111.32, "socialMediaCount": 950 },
+    { "date": "2023-05-04", "price": 101.63, "socialMediaCount": 850 },
+    { "date": "2023-05-05", "price": 99.12, "socialMediaCount": 902 },
+    { "date": "2023-05-06", "price": 80.16, "socialMediaCount": 1040 },
+    { "date": "2023-05-07", "price": 149.12, "socialMediaCount": 800 },
+    { "date": "2023-05-09", "price": 151.94, "socialMediaCount": 600 }
+  ],
+  "Stock 3": [
+    { "date": "2023-05-01", "price": 90.08, "socialMediaCount": 1003 },
+    { "date": "2023-05-02", "price": 112.05, "socialMediaCount": 1100 },
+    { "date": "2023-05-03", "price": 110.32, "socialMediaCount": 950 },
+    { "date": "2023-05-04", "price": 141.63, "socialMediaCount": 700 },
+    { "date": "2023-05-05", "price": 141.12, "socialMediaCount": 900 },
+    { "date": "2023-05-06", "price": 160.16, "socialMediaCount": 1000 },
+    { "date": "2023-05-07", "price": 149.12, "socialMediaCount": 800 },
+    { "date": "2023-05-09", "price": 151.94, "socialMediaCount": 1000 }
+  ],
+  "Stock 4": [
+    { "date": "2023-05-01", "price": 30.08, "socialMediaCount": 1100 },
+    { "date": "2023-05-02", "price": 136.05, "socialMediaCount": 1200 },
+    { "date": "2023-05-03", "price": 131.32, "socialMediaCount": 950 },
+    { "date": "2023-05-04", "price": 124.63, "socialMediaCount": 900 },
+    { "date": "2023-05-05", "price": 70.12, "socialMediaCount": 800 },
+    { "date": "2023-05-06", "price": 112.16, "socialMediaCount": 1300 },
+    { "date": "2023-05-07", "price": 114.12, "socialMediaCount": 400 },
+    { "date": "2023-05-09", "price": 140.94, "socialMediaCount": 900 }
+  ]
+}
